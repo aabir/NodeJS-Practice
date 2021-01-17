@@ -1,4 +1,13 @@
 {
   "users": [],
-  "products": []
+  "products": [
+    {
+      "id": 1,
+      "name": "AAA"
+    },
+    {
+      "id": 2,
+      "name": "BBB"
+    }
+  ]
 }
